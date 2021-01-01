@@ -1,0 +1,51 @@
+{
+  "DAI": {
+    "poolName": "SACDAIPool",
+    "poolAddress": "0x6AB777722c3Eb641c9da0EdaC130b9bF2103aC88",
+    "tokenName": "DAI",
+    "tokenAddress": "0x31F42841c2db5173425b5223809CF3A38FEde360",
+    "decimals": 18
+  },
+  "BAC": {
+    "poolName": "SACBACPool",
+    "poolAddress": "0xED8359294D58569e430005399786c81ca29aC9Ac",
+    "tokenName": "BAC",
+    "tokenAddress": "0xE6d63F29Cb869b18EEb6de40AaED6f61fA16c46e",
+    "decimals": 18
+  },
+  "USDC": {
+    "poolName": "SACUSDCPool",
+    "poolAddress": "0x14C1f7D2a1EDe3D32675F52a3ba34f841FBb59A0",
+    "tokenName": "USDC",
+    "tokenAddress": "0x0d9c8723b343a8368bebe0b5e89273ff8d712e3c",
+    "decimals": 6
+  },
+  "USDT": {
+    "poolName": "SACUSDTPool",
+    "poolAddress": "0x60Fb9cBeDF3dCF1930F1aea8Dc373a22fA989f25",
+    "tokenName": "USDT",
+    "tokenAddress": "0x516de3a7a567d81737e3a46ec4ff9cfd1fcb0136",
+    "decimals": 6
+  },
+  "ESD": {
+    "poolName": "SACESDPool",
+    "poolAddress": "0xF83684EE09aA19E905FFf6A669eAD9DD9B0033Af",
+    "tokenName": "ESD",
+    "tokenAddress": "0xB635df74269af5355a76D136d9B554E87b5a23Fe",
+    "decimals": 18
+  },
+  "FRAX": {
+    "poolName": "SACFRAXPool",
+    "poolAddress": "0xb06A91E81039772371fB3EE62E44F4cAe4FF6E75",
+    "tokenName": "FRAX",
+    "tokenAddress": "0x3bF092F382F88448532Ba8997DDdF7F34b4D06d5",
+    "decimals": 18
+  },
+  "AETH": {
+    "poolName": "SACAETHPool",
+    "poolAddress": "0xeB3adD09B150b34B74f589fBC379871D333DA39d",
+    "tokenName": "AETH",
+    "tokenAddress": "0x6A2C735a3D8a7a5d0691bE5747cE43fCB106c5AF",
+    "decimals": 18
+  }
+}
