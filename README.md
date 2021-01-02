@@ -33,11 +33,15 @@ There exists three types of assets in the Stand Cash system.
 
 ## Motivation
 
-We, the core developers of Stand Cash, were early supporters & observers of Stand when it first launched, and to this day believe that it is one of the best ideas to have ever been put forward in crypto. While Bitcoin first got us interested in blockchain's use cases, it was Stand that first truly inspired us, by painting a picture of a world that runs entirely on decentralized digital dollars the policies for which cannot be corrupted or politicized. Stand is more relevant now today than it ever was in 2017/2018 - with regulators striking back against the decentralized movement by cracking down on Telegram and Libra, while their governments are printing money faster than ever before in human history. 
+The Stand Cash core developers have been early supporters of blockchain and stablecoin, and we believe that having an algorithmic fully decentralised stablecoin will defeat any forms of regulation. As Bitcoin first got us interested in blockchain's use cases, we have seen issues others assets backed stablecoins are facing and we have decided to launch an algorithmic stablecoin which no regulation will have any effect on.
 
-This is not a DeFi project. We are simply leveraging the industry's excitement in the category to bring much deserved attention and engagement to the Stand Protocol, and to use this opportunity to distribute ownership in the protocol fairly.
+Our mission is to establish a tightly pegged $1 stablecoin which will at some point be a globally acceptable stablecoin. As DeFi has become the trend, we are leveraging the industry's excitement in the category to bring adequate attention and engagement to the Stand Protocol, and to use this opportunity to distribute ownership in the protocol fairly but this doesn't mean that Stand Cash is a DeFi project. 
 
-Our only motivation is to bring the Stand Protocol into the world, and to serve its community in implementing Stand' vision to become the first widely adopted decentralized dollar. To that end, we are committed to take no financial upside in Stand Cash's success - we will raise no money and premine no tokens. Instead, when we feel that the protocol has found reasonable product market fit, we will ask the Stand Shares DAO for donations to keep contributing to the protocol. 
+Stand Cash is a completely transparent and community-run project. In line with this, there are no tokens pre-allocated to the team or investors. Ordinarily, this would create a sustenance problem, as team may lose motivation to grow the project and funds may not be available for other important things such as hiring more team. 
+
+To remedy this, the team set up a separate funds. These funds will only be generated as tokens are mined.
+
+The team fund will incentivize the current team as well as any future additions to continue giving their best for the progress of the project.
 
 ## How to Contribute
 
