@@ -4,15 +4,18 @@
 [![License](https://img.shields.io/github/license/Stand-cash/standcashprotocol)](https://github.com/Stand-Cash/standcash-protocol/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/Stand-Cash/standcash-protocol/badge.svg?branch=master)](https://coveralls.io/github/Stand-Cash/standcash-protocol?branch=master)
 
-Stand Cash is a lightweight implementation of the [Stand Protocol](stand.io) on Ethereum. 
+Stand Cash is an Algorithmic open-source stablecoin with reserve asset mechanism built on Ethereum.
 
 ## The Stand Cash Protocol
 
-Stand Cash differs from the original Stand Project in several meaningful ways: 
 
-1. **Rationally simplified** - several core mechanisms of the Stand protocol has been simplified, especially around bond issuance and seigniorage distribution. We've thought deeply about the tradeoffs for these changes, and believe they allow significant gains in UX and contract simplicity, while preserving the intended behavior of the original monetary policy design. 
-2. **Censorship resistant** - we launch this project anonymously, protected by the guise of characters from the popular SciFi series Rick and Morty. We believe this will allow the project to avoid the censorship of regulators that scuttled the original Stand Protocol, but will also allow Stand Cash to avoid founder glorification & single points of failure that have plagued so many other projects. 
-3. **Fairly distributed** - both Stand Shares and Stand Cash has zero premine and no investors - community members can earn the initial supply of both assets by helping to contribute to bootstrap liquidity & adoption of Stand Cash. 
+Stand Cash has some unique features over other algorithmic stablecoins.
+
+1. **Rationally simplified** - main core mechanisms of the Stand protocol has been simplified, especially around bond issuance and seigniorage distribution. After a deeply thought about the tradeoffs for these changes, and believe they allow significant gains in UX and contract simplicity, while preserving the intended behavior of the original monetary policy design.
+
+2. **Censorship resistant** - the project was launched on anonymity, by some well experienced developers. Our believe for being anonymous is that it will allow the project to avoid the censorship of regulators which could create some barriers in future, also will allow Stand Cash to avoid founder glorification & single points of failure that have plagued so many other projects.
+
+3. **Fairly distributed** - both Stand Shares and Stand Cash has zero premine and no investors - community members can earn the initial supply of both assets by helping to contribute to bootstrap liquidity & adoption of Stand Cash.
 
 ### A Three-token System
 
