@@ -8,18 +8,6 @@
 
 Stand Cash is a lightweight implementation of the [Stand Protocol](stand.io) on Ethereum. 
 
-## History of Stand 
-
-Stand is an algorithmic stablecoin protocol where the money supply is dynamically adjusted to meet changes in money demand.  
-
-- When demand is rising, the blockchain will create more Stand Cash. The expanded supply is designed to bring the Stand price back down.
-- When demand is falling, the blockchain will buy back Stand Cash. The contracted supply is designed to restore Stand price.
-- The Stand protocol is designed to expand and contract supply similarly to the way central banks buy and sell fiscal debt to stabilize purchasing power. For this reason, we refer to Stand Cash as having an algorithmic central bank.
-
-Read the [Stand Whitepaper](http://stand.io/stand_whitepaper_en.pdf) for more details into the protocol. 
-
-Stand was shut down in 2018, due to regulatory concerns its Bond and Share tokens have security characteristics. The project team opted for compliance, and shut down operations, returned money to investors and discontinued development of the project. 
-
 ## The Stand Cash Protocol
 
 Stand Cash differs from the original Stand Project in several meaningful ways: 
