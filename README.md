@@ -1,7 +1,5 @@
 # Stand Cash
 
-![Background Image](./assets/bg.jpeg)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/standcash?label=Follow)](https://twitter.com/standcash)
 [![License](https://img.shields.io/github/license/Stand-cash/standcashprotocol)](https://github.com/Stand-Cash/standcash-protocol/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/Stand-Cash/standcash-protocol/badge.svg?branch=master)](https://coveralls.io/github/Stand-Cash/standcash-protocol?branch=master)
